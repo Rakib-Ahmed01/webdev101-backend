@@ -4,7 +4,7 @@ const categories = require('./data/categories.json');
 
 const app = express();
 
-app.get('/courses-categries', (req, res) => {
+app.get('/courses-categories', (req, res) => {
   res.send(categories);
 });
 
