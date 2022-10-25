@@ -1,8 +1,11 @@
 const express = require('express');
 const courses = require('./data/courses');
 const categories = require('./data/categories.json');
+const cors = require('cors');
 
 const app = express();
+
+app.use(cors());
 
 app.get('/courses-categories', (req, res) => {
   res.send(categories);
