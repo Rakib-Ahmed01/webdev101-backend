@@ -120,7 +120,7 @@
     "duration": "37.5h",
     "category_id": 3,
     "category_name": "JavaScript",
-    "isPopular": true,
+    "isPopular": false,
     "image": "https://learnacourseonline.com/wp-content/uploads/2022/04/The-Complete-JavaScript-Course-2022-From-Zero-to-Expert-udemy.jpg",
     "id": "811ef991-016d-489e-ab8d-c9a5153479c8",
     "price": "10$"
@@ -176,7 +176,7 @@
     "duration": "37.5h",
     "category_id": 3,
     "category_name": "JavaScript",
-    "isPopular": true,
+    "isPopular": false,
     "image": "https://www.johnsmilga.com/_next/image?url=https%3A%2F%2Fdl.airtable.com%2F.attachments%2F51c3860a2fb8ca3aa58870f163e3262e%2Fdefd2e63%2Fjs-logo.png%3Fts%3D1660686594%26userId%3DusrQMwWEPx18KgLcP%26cs%3D00d6301d8655dafb&w=1920&q=100",
     "id": "5abd5449-0e78-4ced-b88a-5b94732c1050",
     "price": "10$"
@@ -274,7 +274,7 @@
     "duration": "37.5h",
     "category_id": 5,
     "category_name": "NodeJS",
-    "isPopular": true,
+    "isPopular": false,
     "image": "https://i.udemycdn.com/course/750x422/1672410_9ff1_5.jpg",
     "id": "aa321655-94c2-4ff1-9a6a-4da1a86e91f6",
     "price": "10$"
